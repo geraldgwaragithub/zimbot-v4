@@ -1,4 +1,4 @@
-<a href="https://youtu.be/KNu-gr2h7bo"><img src="https://img.shields.io/badge/Tutorial-Video-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtu.be/ww4z2m3uORU" /><br>
+Hi<a href="https://youtu.be/KNu-gr2h7bo"><img src="https://img.shields.io/badge/Tutorial-Video-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtu.be/ww4z2m3uORU" /><br>
 
 # ZIM BOT V4
 
@@ -49,11 +49,11 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 ## > CHANGE LINK IN LIB FOLDER 📁📂 CHANGE HERE [`DOCKERFILE`](https://github.com/zim-bot/zimbot-v4/edit/main/lib/Dockerfile)
 
 ``` 
-apt install nodejs
+apk install nodejs
 
-apt install git
+apk install git
 
-apt update && apt upgrade
+apk update && apt upgrade
 
 git clone https://github.com/zim-bot/zimbot-v4
  
@@ -75,7 +75,7 @@ echo scan the qr code and enjoy bot
 
 ## MY PERSONAL CHAT
 
-# [![WhatsApp Group](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/27634090203)
+# [![WhatsApp Group](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/263775396164)
 
 
 # > THANKS FOR CHOOSING ZIM BOT WE APPRECIATE YOU FOR YOUR SUPPORT
